@@ -2,3 +2,9 @@ Welcome to the world of python
 
 
 Welcome to the world of python
+
+import Print as Print
+
+Print("Welcome to the git installation")
+
+Print("Welcome to the git installation")
